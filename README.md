@@ -9,7 +9,7 @@
 
 # &#128200; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepbanoula&count_private=true&show_icons=true&theme=radical&hide=stars,issues" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbanoula&theme=radical" />
 
 
 <!---
