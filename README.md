@@ -1,4 +1,7 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbanoula&theme=<THEME_NAME>" />
 - 👋 Hi, I’m Sandeep Banoula.
 - 👀 I’m interested in web devlopment.
 - 🌱 I’m currently learning data structures.
