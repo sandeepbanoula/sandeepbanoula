@@ -10,6 +10,9 @@
 # &#128200; GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepbanoula&count_private=true&show_icons=true&theme=radical&hide=stars,issues" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbanoula)](https://github.com/sandeepbanoula/github-readme-stats)
+
+
 
 <!-- Actual text -->
 
