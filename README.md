@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/sandeepbanoula/sandeepbanoula/blob/main/assets/Logopit_1634481228749.png" width="30px">
 
 - 👋 Hi, I’m Sandeep Banoula.
 - 👀 I’m interested in web devlopment.
