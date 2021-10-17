@@ -1,4 +1,3 @@
-[![Header](https://github.com/sandeepbanoula/sandeepbanoula/blob/main/assets/Logopit_1634481228749.png "Header")](https://sjavascript.com/)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 Hi, I’m Sandeep Banoula.
