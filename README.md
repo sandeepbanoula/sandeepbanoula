@@ -1,27 +1,25 @@
-[![Header](https://github.com/sandeepbanoula/sandeepbanoula/blob/main/assets/Logopit_1634481228749.png "Header")](https://sjavascript.com/)
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/sandeepbanoula/sandeepbanoula/assets/wave.gif" width="30px">
 
-- 👋 Hi, I’m Sandeep Banoula.
-- 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning data structures.
-- 💞️ I’m looking to collaborate on web based projects.
+- 👋 Hi, I’m Sandeep Singh Banoula.
+- 👀 Aspiring web developer currently pursuing a Computer Science degree.
+- 💞️ Committed to mastering the best practices in web development.
+- 🌱 I’m currently seeking job opportunity as a web developer.
 - 📫 You can reach me at banoula.sandeep@gmail.com
 
 # &#128200; GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbanoula&theme=radical&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepbanoula&count_private=true&show_icons=true&theme=radical&hide=stars,issues" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepbanoula&theme=radical&layout=compact" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepbanoula&count_private=true&show_icons=true&theme=radical&hide=issues" />
 
 <!-- Actual text -->
 
-You can find me on  [![LinkedIn][2.2]][2].
+You can connect with me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://raw.githubusercontent.com/sandeepbanoula/sandeepbanoula/assets/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/sandeepbanoula/
+[1]: https://www.linkedin.com/in/sandeepbanoula/
 
 
 <!---
