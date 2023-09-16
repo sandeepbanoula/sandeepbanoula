@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/sandeepbanoula/sandeepbanoula/assets/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/sandeepbanoula/sandeepbanoula/blob/main/assets/wave.gif" width="30px">
 
 - 👋 Hi, I’m Sandeep Singh Banoula.
 - 👀 Aspiring web developer currently pursuing a Computer Science degree.
@@ -15,7 +15,7 @@ You can connect with me on [![LinkedIn][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/sandeepbanoula/sandeepbanoula/assets/linkedin-3-16.png
+[1.2]: https://github.com/sandeepbanoula/sandeepbanoula/blob/main/assets/linkedin-3-16.png
 
 <!-- Links to your social media accounts -->
 
